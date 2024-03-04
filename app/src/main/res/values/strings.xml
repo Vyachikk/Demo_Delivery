@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RediExpressApp</string>
+    //Headings
+    <string name="heading_start">Quick Delivery At Your Doorstep</string>
+    <string name="heading_next">Flexible Payment</string>
+    <string name="heading_last">Real-time Tracking</string>
+    //Descriptions
+    <string name="desc_start">Enjoy quick pick-up and delivery to your destination</string>
+    <string name="desc_next">Different modes of payment either before and after delivery without stress</string>
+    <string name="desc_last">Track your packages/items from the comfort of your home till final destination</string>
+    //SignInInfo
+    <string name="SignInInfo">Already have an account?</string>
+    <string name="SignCheckBox">By ticking this box, you agree to our Terms and conditions and private policy </string>
+    <string name="ForgetEmail">Enter your email address</string>
+    <string name="ForgetPassword">Enter your password</string>
+    <string name="ForgetRetryPassword">Сonfirm your password</string>
+    <string name="DontMatch">Passwords don&quot;t match</string>
+</resources>
