@@ -7,11 +7,10 @@
     tools:context=".MainActivity">
 
     <Button
-
         android:id="@+id/ButtonNext"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="48dp"
+        android:layout_marginRight="24dp"
         android:layout_marginBottom="72dp"
         android:backgroundTint="@color/buttonforeground"
         android:text="Next"
@@ -25,6 +24,7 @@
         android:id="@+id/ButtonSkip"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="24dp"
         android:layout_marginBottom="72dp"
         android:backgroundTint="@color/background"
         android:drawableTint="@color/buttonforeground"
@@ -34,7 +34,6 @@
         android:textSize="20sp"
         app:cornerRadius="4dp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.12"
         app:layout_constraintStart_toStartOf="parent" />
 

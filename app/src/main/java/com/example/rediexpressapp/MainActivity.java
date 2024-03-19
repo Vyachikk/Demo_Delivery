@@ -20,15 +20,9 @@ public class MainActivity extends AppCompatActivity {
     ViewPager mSLideViewPager;
     LinearLayout mDotLayout;
     Button nextbtn, skipbtn, signin;
-
     TextView SignInInfo;
-
     TextView[] dots;
     ViewPagerAdapter viewPagerAdapter;
-    Boolean flag;
-
-
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
